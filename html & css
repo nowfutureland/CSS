@@ -1,0 +1,24 @@
+.px {
+    font-size: 25px;
+    color: red;
+}
+
+.per {
+    font-size: 70%;
+    color: rgb(102, 102, 230);
+}
+
+.em {
+    font-size: 2em;
+    color: rgba(107, 82, 216, 0.5);
+}
+
+.rem {
+    font-size: 2rem;
+    color: aquamarine
+}
+
+.vw {
+    font-size: 1vw;
+    color: darkorange
+}
