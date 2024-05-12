@@ -1,0 +1,36 @@
+* {
+    margin: 0px; padding: 0px;
+}
+
+#header {
+    text-align: center;
+    background-color: blue;
+    color: yellow;
+    width: 100%;
+    height: 80px;
+    line-height: 80PX;
+    font-size: large;
+}
+
+caption{
+    text-align: right;
+}
+
+table{
+    border-style: solid;
+    border-color: red;
+    width: 100%;
+}
+tr {
+    border-color: black;
+}
+
+td {
+   text-align: center;
+   border: 2px solid black;
+}
+
+th {
+   text-align: center;
+   border: 2px solid black;
+}
